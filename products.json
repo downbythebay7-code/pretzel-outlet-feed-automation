@@ -1,0 +1,9 @@
+[
+  {
+    "product_id": "sample123",
+    "title": "Sample Product",
+    "price": 29.99,
+    "thumb_img": "https://via.placeholder.com/250",
+    "category": "electronics"
+  }
+]
